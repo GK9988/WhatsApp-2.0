@@ -44,8 +44,8 @@ This Web APP is built by using the following technologies, frameworks, libraries
 - [React JS](https://reactjs.org/)
 - [Next JS](https://nextjs.org/)
 - [Material UI](https://material-ui.com/)
+- [Vercel](https://vercel.com/)
 - [Google Firebase](https://firebase.google.com/)
-- [Vercel](vercel.com)
 
 <!-- CONTACT -->
 
@@ -53,6 +53,6 @@ This Web APP is built by using the following technologies, frameworks, libraries
 
 Your Name - [@GarvKhurana10](https://twitter.com/GarvKhurana10) - workwithgarvkhurana@gmail.com
 
-Project Link: [whatsapp-2-0-delta.vercel.app](whatsapp-2-0-delta.vercel.app)
+Project Link: [whatsapp-2-0-delta.vercel.app](https://whatsapp-2-0-delta.vercel.app/)
 
 [product-screenshot]: images/screenshot.png
